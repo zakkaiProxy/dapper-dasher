@@ -1,0 +1,1 @@
+g++ -g -o a.out dasher.cpp -lraylib -lGL -lm -lpthread -ldl -lrt -lX11
